@@ -8,4 +8,5 @@
   - Upon data submission, show the user input in a readable form (it's up to you to decide on the format)
   - Provide a way to the user to re-initialize the app (show the empty form again) after showing the input
   - Refactor the app
+  - Create views for the tab display and for the side which will be the main content.
 
